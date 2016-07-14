@@ -8,3 +8,31 @@
 8.HTML strukturuna uyðun teyin etmeli 
 9.Fayla düzgün add vermek 
 10.Alternativ secimler arasinda en optimal olanini secmek
+
+as Font Awasome
+
+1.https://fortawesome.com/
+2.http://fontello.com/
+3.http://weloveiconfonts.com/
+4.https://designscrazed.org/html-css3-social-media-buttons/
+5.http://creativenerds.co.uk/freebies/20-free-css-icon-sets-for-web-designers/
+6.http://www.bourncreative.com/1680-free-star-social-media-icons/
+7.http://www.cssauthor.com/best-free-icon-sets-2013/
+8.http://graphicdesignjunction.com/2011/06/100-free-vector-icons-with-css-sprites-plastique-icons-set/
+
+Azerbaycan siriftini destekleyen fontlar
+1.Merriweather
+2.Caudex
+3.Judson
+4.Roboto, cond.
+5.Source Sans, Code
+6.Francois One
+7.Istok Web
+8.Life Savers
+9.New Rocker
+10.Petit Formal Script
+
+her hansi fontu istifade etmek isteyirikse uzeruine klikletyende google fontsa kecid edir daha sonra asagida mes <link href='https://fonts.googleapis.com/css?family=Itim' rel='stylesheet' type='text/css'> 
+bele bir linki copy edib html file add edirik hemin fontu ister daha sonra html de isterse de css de istifade ede bilerik ten=bii ki adini cagiraraq
+
+
