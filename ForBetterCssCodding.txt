@@ -1,0 +1,10 @@
+1.Ilk növbede CSS istifade edeceyimiz classlara düzgün ad vermek. p.s misal üçün bu parametrini deyiþeceyimiz obyektlere uyðun adlandýrýlmalýdýr
+2.Ümumiyyetle neinki CSS de kodlaþdýrmada tekrarçýlýða yol vermemek 
+3.Css de klaslarý ele yaratmalýyýq ki her hansý bir obyekt ve ya obyektlrin xüsusiyyetlerini deyiþimi bir gediþatla mümkün etmek olsun
+4.yaradacaðýmýz classlarýn ve ya id lerin yerini daha oxunaqlý olmasý üçün düzgün teyin etmek 
+5.Neinki CSS de umumiyyetle her hansý bir kod yazarken daha usefull olsun deye optmize etmek 
+6. Umumi dizayni quracagimiz web sehifede oxþar xusisyyetlere malik obyekleri teyin etmek ve hemin obyektler uzerinde eyniz zamanda istifade ede bileceyimiz classlar ve ya id ler yaratmaq 
+7. yazdigimiz kodlarin sonradan bizim ve ya digerlerinin baþa düþe bilmesi üçün commentlerden istifade etmek 
+8.HTML strukturuna uyðun teyin etmeli 
+9.Fayla düzgün add vermek 
+10.Alternativ secimler arasinda en optimal olanini secmek
